@@ -25,3 +25,6 @@ venv.bak/
 # Ignore all OSX hidden files
 *.DS_Store
 /bin/
+
+# Ignore test_wrds command logs
+src/logs/
