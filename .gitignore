@@ -28,3 +28,6 @@ venv.bak/
 
 # Ignore test_wrds command logs
 src/logs/
+
+# Ignore PFD datafiles
+data/pfd
