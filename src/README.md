@@ -1,4 +1,4 @@
-# Politician voting data
+# Scripts
 - Stockwatcher
 	- `eda.ipynb` A general EDA for stockwatcher data
 	- `generate-crsp-sql-queries.ipynb`, `execute-crsp-sql-queries.ipynb`, `merge-sw-crsp` Fetch CRSP stock data from WRDS and merge with raw stockwatcher
@@ -10,4 +10,4 @@
 	- `pfd.ipynb` Exploratory data exercise with OpenSecrets Personal Finance Disclosure (PFD) data
 
 - Sacerdote
-	- `sacerdote_data.ipynb` Exploratory data exercise with Belmont and Sacerdote (2022) data
+	- `sacerdote_data.ipynb` Exploratory data exercise with [Belmont and Sacerdote (2022)](https://doi.org/10.1016/j.jpubeco.2022.104602) data
