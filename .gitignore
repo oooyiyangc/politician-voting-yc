@@ -29,5 +29,6 @@ venv.bak/
 # Ignore test_wrds command logs
 src/logs/
 
-# Ignore PFD datafiles
+# Ignore large datafiles
 data/pfd
+data/sacerdote/
