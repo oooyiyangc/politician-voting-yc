@@ -1,4 +1,4 @@
-# Politician voting data
+# Data
 - Stockwatcher and CRSP
 	- `house_all_transactions`: original dataset from housestockwatcher.com
 	- `house_all_transactions_fixed`: fixed some typo with dates (to replicate: src/fix_house_sw(house_all_transactions) -> house_all_transactions_fixed)
@@ -7,3 +7,9 @@
 	- `senate_crsp`: CRSP data (from WRDS crsp.wrds_dsfv2_query) for relevant ticker (to replicate: generate-crsp-sql-queries -> execute-crsp-sql-queries)
 	- `sw_crsp_house`: Merge CRSP with housestockwatcher (to replicate: merge-sw-crsp)
 	- `sw_crsp_senate`: Merge CRSP with senatestockwatcher (to replicate: merge-sw-crsp)
+- Sacerdote (Omitted, see Google Drive)
+	- `house_senate_merged_dataset.dta` Original dataset from Belmont, Sacerdote, et al. (2022) (See Google Drive)
+	- `bs_data.csv` Relevant columns of the original dataset
+- Barchart
+	- `barchart/sp-500.csv` SP500 stocks list, returns, etc.
+	- `barchart/sp-esg.csv` SP500 ESG stocks list, returns, etc.

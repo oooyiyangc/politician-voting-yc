@@ -7,6 +7,7 @@
 	- [`generate-involvement-factor.ipynb`](generate-involvement-factor.ipynb) First-stage exercise to produce single factor for feasibility analysis
 
 - OpenSecrets
+	- [`../data/process_pfd.sh`](../data/process_pfd.sh) Clean PFD bulkdata for read
 	- [`pfd.ipynb`](pfd.ipynb) Exploratory data exercise with OpenSecrets Personal Finance Disclosure (PFD) data
 
 - Sacerdote
