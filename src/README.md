@@ -10,4 +10,5 @@
 	- [`pfd.ipynb`](pfd.ipynb) Exploratory data exercise with OpenSecrets Personal Finance Disclosure (PFD) data
 
 - Sacerdote
-	- [`sacerdote_data.ipynb`](sacerdote_data.ipynb) Exploratory data exercise with [Belmont and Sacerdote (2022)](https://doi.org/10.1016/j.jpubeco.2022.104602) data
+	- [`bs-data-cleaning.ipynb`](sacerdote_data.ipynb) Extract relevant columns from [Belmont and Sacerdote (2022)](https://doi.org/10.1016/j.jpubeco.2022.104602) data with some preliminary coverage report. 
+	- [`bs-sp500esg.ipynb`](bs-sp500esg.ipynb) Produce single ESG-investment regressor for feasibility exercise with SP500 ESG Index
