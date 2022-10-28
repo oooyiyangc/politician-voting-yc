@@ -31,4 +31,5 @@ src/logs/
 
 # Ignore large datafiles
 data/pfd
+data/pfd_clean
 data/sacerdote/
