@@ -1,0 +1,27 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{4}{c}}
+\toprule
+                    &\multicolumn{1}{c}{(1)}&\multicolumn{1}{c}{(2)}&\multicolumn{1}{c}{(3)}&\multicolumn{1}{c}{(4)}\\
+                    &\multicolumn{1}{c}{weightedPollutingInvestments}&\multicolumn{1}{c}{weightedPollutingInvestments}&\multicolumn{1}{c}{weightedPollutingInvestments}&\multicolumn{1}{c}{weightedPollutingInvestments}\\
+\midrule
+everHighSO2         &    0.000775         &                     &                     &    -0.00239         \\
+                    &   (0.00431)         &                     &                     &   (0.00678)         \\
+\addlinespace
+everHighCO2         &                     &     0.00128         &                     &    0.000163         \\
+                    &                     &   (0.00404)         &                     &   (0.00548)         \\
+\addlinespace
+everHighNOx         &                     &                     &     0.00238         &     0.00403         \\
+                    &                     &                     &   (0.00422)         &   (0.00696)         \\
+\addlinespace
+Constant            &     0.00369         &     0.00339         &     0.00314         &     0.00326         \\
+                    &   (0.00240)         &   (0.00262)         &   (0.00243)         &   (0.00272)         \\
+\midrule
+Observations        &          45         &          45         &          45         &          45         \\
+\(R^{2}\)           &       0.001         &       0.002         &       0.007         &       0.010         \\
+Adjusted \(R^{2}\)  &      -0.022         &      -0.021         &      -0.016         &      -0.062         \\
+\bottomrule
+\multicolumn{5}{l}{\footnotesize Standard errors in parentheses}\\
+\multicolumn{5}{l}{\footnotesize \sym{*} \(p<0.05\), \sym{**} \(p<0.01\), \sym{***} \(p<0.001\)}\\
+\end{tabular}
+}
