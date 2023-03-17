@@ -29,30 +29,34 @@ class AmendmentText:
 		# text_window_link.click()
 
 		# self.driver.switch_to.window(self.driver.window_handles[1])
-
-		# Version after 3/16/2023
 		amendment_text_html = self.driver.page_source
 		soup = BeautifulSoup(amendment_text_html,'html.parser')
-		amendment_text = soup.find('pre', class_="styled")
-		# print(amendment_text.text)
-		# amendment_text = soup.text
+		try: 
+			# Version after 3/16/2023
+			amendment_text = soup.find('pre', class_="styled").text
+			# print(amendment_text.text)
+		except:
+			table_block = soup.find('table', class_="item_table")
+			articles_table_url = table_block.find('a', href=True)['href']
+			self.url = "https://www.congress.gov" + articles_table_url
+			self.driver.get(self.url)
 
-		# with open(f'amendment_text_test.txt', 'w') as f:
-		# 	f.write(amendment_text.text)
-		return amendment_text.text
+			text_window_link = self.driver.find_element_by_link_text("View TXT in new window")
+			text_window_link.click()
+
+			self.driver.switch_to.window(self.driver.window_handles[1])
+			amendment_text_html = self.driver.page_source
+			soup = BeautifulSoup(amendment_text_html,'html.parser')
+			amendment_text = soup.text
+
+		return amendment_text
 
 		
 
 if __name__ == '__main__':
-	test_run_csv = pd.read_csv("amendments_test.csv")
-	# test_run_csv["text_scraped?"] = np.zeros(test_run_csv.shape[0])
-	for i in range(test_run_csv.shape[0]):
-		amendment_url = test_run_csv.iloc[i, 1]
-		print(amendment_url)
-		amendment_text_url = re.sub(r'\?', '/text?', amendment_url)
 
-		test_run = AmendmentText(amendment_text_url)
-		# print(test_run.get_title())
-		amendment_text = test_run.scrape_amendment_text()
-		with open(f'output/amendment_text_{test_run_csv.iloc[i, 0]}.txt', 'w') as f:
-			f.write(amendment_text)
+	test_run = AmendmentText("https://www.congress.gov/amendment/116th-congress/senate-amendment/1266/text?s=a&r=2")
+	# print(test_run.get_title())
+	amendment_text = test_run.scrape_amendment_text()
+	with open(f'output/amendment_text.txt', 'w') as f:
+		f.write(amendment_text)

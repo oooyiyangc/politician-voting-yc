@@ -7,7 +7,7 @@ from scrape_amendments import Amendments
 from scrape_amendments_text import AmendmentText
 
 if __name__ == '__main__':
-	test_run = Amendments("https://www.congress.gov/bill/116th-congress/house-bill/1158/amendments")
+	test_run = Amendments("https://www.congress.gov/bill/116th-congress/house-bill/2740/amendments?page=2")
 	print(test_run.get_title())
 	test_run.scrape_all_amendments()
 

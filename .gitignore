@@ -36,6 +36,7 @@ data/sacerdote/
 data/minas_esg/sustainalytics_bs_merge.csv
 data/EmissionsProEnvVotes.csv
 src/past/*
+src/amendment_scraping/output
 
 # webdriver
 chromedriver_v*.exe
