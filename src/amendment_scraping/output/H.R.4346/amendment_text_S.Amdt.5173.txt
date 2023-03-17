@@ -1,0 +1,111 @@
+
+[Pages S3647-S3648]
+From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
+
+  SA 5173. Mr. LEE submitted an amendment intended to be proposed to 
+amendment SA 5135 proposed by Mr. Schumer to the bill H.R. 4346, making 
+appropriations for Legislative Branch for the fiscal year ending 
+September 30, 2022, and for other purposes; which was ordered to lie on 
+the table; as follows:
+        In division A, strike section 107 and insert the 
+     following:
+
+     SEC. 107. SPECIAL DEPRECIATION ALLOWANCE FOR QUALIFIED 
+                   MANUFACTURING PROPERTY.
+
+       (a) In General.--Section 168 of the Internal Revenue Code 
+     of 1986 is amended by adding at the end the following new 
+     subsection:
+       ``(n) Special Allowance for Qualified Manufacturing 
+     Property.--
+       ``(1) In general.--In the case of any qualified 
+     manufacturing property--
+       ``(A) the depreciation deduction provided by section 167(a) 
+     for the taxable year in which such property is placed in 
+     service shall include an allowance equal to 100 percent of 
+     the adjusted basis of such property, and
+       ``(B) the adjusted basis of such property shall be reduced 
+     by the amount of such deduction before computing the amount 
+     otherwise allowable as a depreciation deduction under this 
+     chapter for such taxable year and any subsequent taxable 
+     year.
+       ``(2) Qualified manufacturing property.--For purposes of 
+     this subsection--
+       ``(A) In general.--The term `qualified manufacturing 
+     property' means any property--
+       ``(i) which is tangible property,
+       ``(ii) with respect to which depreciation (or amortization 
+     in lieu of depreciation) is allowable,
+       ``(iii) which is--
+
+       ``(I) constructed, reconstructed, or erected by the 
+     taxpayer, or
+       ``(II) acquired by the taxpayer if the original use of such 
+     property commences with the taxpayer,
+
+       ``(iv) which is integral to the operation of the 
+     manufacturing facility (as defined in section 144(a)(12)), 
+     and
+       ``(v) the construction of which begins before January 1, 
+     2028.
+       ``(B) Buildings and structural components.--
+
+[[Page S3648]]
+
+       ``(i) In general.--The term `qualified manufacturing 
+     property' includes any building or its structural components 
+     which otherwise satisfy the requirements under subparagraph 
+     (A).
+       ``(ii) Exception.--Subclause (I) shall not apply with 
+     respect to a building or portion of a building used for 
+     offices, administrative services, or other functions 
+     unrelated to manufacturing.
+       ``(3) Exceptions.--
+       ``(A) Alternative depreciation property.--Such term shall 
+     not include any property described in subsection (k)(2)(D).
+       ``(B) Tax-exempt bond-financed property.--Such term shall 
+     not include any property any portion of which is financed 
+     with the proceeds of any obligation the interest on which is 
+     exempt from tax under section 103.
+       ``(C) Election out.--If a taxpayer makes an election under 
+     this subparagraph with respect to any class of property for 
+     any taxable year, this subsection shall not apply to all 
+     property in such class placed in service during such taxable 
+     year.
+       ``(4) Special rules.--For purposes of this subsection, 
+     rules similar to the rules of subsection (k)(2)(E) shall 
+     apply.
+       ``(5) Allowance against alternative minimum tax.--For 
+     purposes of this subsection, rules similar to the rules of 
+     subsection (k)(2)(G) shall apply.
+       ``(6) Recapture.--For purposes of this subsection, rules 
+     similar to the rules under section 179(d)(10) shall apply 
+     with respect to any qualified manufacturing property which 
+     ceases to be qualified manufacturing property.''.
+       (b) Coordination With Other Bonus Depreciation 
+     Provisions.--
+       (1) Section 168(k)(2) of the Internal Revenue Code of 1986 
+     is amended by adding at the end the following new 
+     subparagraph:
+       ``(I) Coordination with qualified manufacturing property.--
+     The term `qualified property' shall not include any property 
+     to which subsection (n) applies.''.
+       (2) Section 168(l)(3) of such Code is amended by adding at 
+     the end the following new subparagraph:
+       ``(E) Coordination with qualified manufacturing property.--
+     The term `qualified second generation biofuel plant 
+     property'shall not include any property to which subsection 
+     (n) applies.''.
+       (3) Section 168(m)(2)(B) of such Code is amended by adding 
+     at the end the following new clause:
+       ``(iv) Coordination with qualified manufacturing 
+     property.--The term `qualified reuse and recycling 
+     property'shall not include any property to which subsection 
+     (n) applies.''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to property placed in service after the date of 
+     the enactment of this Act.
+                                 ______
+
+
+

@@ -1,0 +1,238 @@
+
+[Pages S3642-S3643]
+From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
+
+  SA 5158. Mr. PORTMAN submitted an amendment intended to be proposed 
+by him to the bill H.R. 4346, making appropriations for Legislative 
+Branch for the fiscal year ending September 30, 2022, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+               TITLE __--SAFEGUARDING AMERICAN INNOVATION
+
+     SEC. __. SHORT TITLE.
+
+       This title may be cited as the ``Safeguarding American 
+     Innovation Act''.
+
+     SEC. __. FEDERAL GRANT APPLICATION FRAUD.
+
+       (a) In General.--Chapter 47 of title 18, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 1041. Federal grant application fraud
+
+       ``(a) Definitions.--In this section:
+       ``(1) Federal agency.--The term `Federal agency' has the 
+     meaning given the term `agency' in section 551 of title 5, 
+     United States Code.
+       ``(2) Federal grant.--The term `Federal grant'--
+       ``(A) means a grant awarded by a Federal agency;
+       ``(B) includes a subgrant awarded by a non-Federal entity 
+     to carry out a Federal grant program; and
+       ``(C) does not include--
+       ``(i) direct United States Government cash assistance to an 
+     individual;
+       ``(ii) a subsidy;
+       ``(iii) a loan;
+       ``(iv) a loan guarantee; or
+       ``(v) insurance.
+       ``(3) Federal grant application.--The term `Federal grant 
+     application' means an application for a Federal grant.
+       ``(4) Foreign compensation.--The term `foreign 
+     compensation' means a title, monetary compensation, access to 
+     a laboratory or other resource, or other benefit received 
+     from--
+       ``(A) a foreign government;
+       ``(B) a foreign government institution; or
+       ``(C) a foreign public enterprise.
+       ``(5) Foreign government.--The term `foreign government' 
+     includes a person acting or purporting to act on behalf of--
+       ``(A) a faction, party, department, agency, bureau, 
+     subnational administrative entity, or military of a foreign 
+     country; or
+       ``(B) a foreign government or a person purporting to act as 
+     a foreign government, regardless of whether the United States 
+     recognizes the government.
+       ``(6) Foreign government institution.--The term `foreign 
+     government institution' means a foreign entity owned by, 
+     subject to the control of, or subject to regulation by a 
+     foreign government.
+       ``(7) Foreign public enterprise.--The term `foreign public 
+     enterprise' means an enterprise over which a foreign 
+     government directly or indirectly exercises a dominant 
+     influence.
+       ``(8) Law enforcement agency.--The term `law enforcement 
+     agency'--
+       ``(A) means a Federal, State, local, or Tribal law 
+     enforcement agency; and
+       ``(B) includes--
+       ``(i) the Office of Inspector General of an establishment 
+     (as defined in section 12 of the Inspector General Act of 
+     1978 (5 U.S.C. App.)) or a designated Federal entity (as 
+     defined in section 8G(a) of the Inspector General Act of 1978 
+     (5 U.S.C. App.)); and
+       ``(ii) the Office of Inspector General, or similar office, 
+     of a State or unit of local government.
+       ``(9) Outside compensation.--The term `outside 
+     compensation' means any compensation, resource, or support 
+     (regardless of monetary value) made available to the 
+     applicant in support of, or related to, any research 
+     endeavor, including a title, research grant, cooperative 
+     agreement, contract, institutional award, access to a 
+     laboratory, or other resource, including materials, travel 
+     compensation, or work incentives.
+       ``(b) Prohibition.--It shall be unlawful for any individual 
+     to knowingly--
+       ``(1) prepare or submit a Federal grant application that 
+     fails to disclose the receipt of any outside compensation, 
+     including foreign compensation, by the individual, the value 
+     of which is $1,000 or more;
+       ``(2) forge, counterfeit, or otherwise falsify a document 
+     for the purpose of obtaining a Federal grant; or
+       ``(3) prepare, submit, or assist in the preparation or 
+     submission of a Federal grant application or document in 
+     connection with a Federal grant application that--
+       ``(A) contains a material false statement;
+       ``(B) contains a material misrepresentation; or
+       ``(C) fails to disclose a material fact.
+       ``(c) Exception.--Subsection (b) does not apply to an 
+     activity--
+       ``(1) carried out in connection with a lawfully authorized 
+     investigative, protective, or intelligence activity of--
+       ``(A) a law enforcement agency; or
+       ``(B) a Federal intelligence agency; or
+       ``(2) authorized under chapter 224.
+       ``(d) Penalty.--Any individual who violates subsection 
+     (b)--
+       ``(1) shall be fined in accordance with this title, 
+     imprisoned for not more than 5 years, or both, in accordance 
+     with the level of severity of that individual's violation of 
+     subsection (b); and
+       ``(2) shall be prohibited from receiving a Federal grant 
+     during the 5-year period beginning on the date on which a 
+     sentence is imposed on the individual under paragraph (1).''.
+       (b) Clerical Amendment.--The analysis for chapter 47 of 
+     title 18, United States Code, is amended by adding at the end 
+     the following:
+
+``1041. Federal grant application fraud.''.
+
+     SEC. __. RESTRICTING THE ACQUISITION OF EMERGING TECHNOLOGIES 
+                   BY CERTAIN ALIENS.
+
+       (a) Grounds of Visa Sanctions.--The Secretary of State may 
+     impose the sanctions described in subsection (c) if the 
+     Secretary determines an alien is seeking to enter the United 
+     States to knowingly acquire sensitive or emerging 
+     technologies to undermine national security interests of the 
+     United States by benefitting an adversarial foreign 
+     government's security or strategic capabilities.
+       (b) Relevant Factors.--To determine if an alien is 
+     inadmissible under subsection (a), the Secretary of State 
+     shall--
+       (1) take account of information and analyses relevant to 
+     implementing subsection (a) from the Office of the Director 
+     of National Intelligence, the Department of Health and Human 
+     Services, the Department of Defense, the Department of 
+     Homeland Security, the Department of Energy, the Department 
+     of Commerce, and other appropriate Federal agencies;
+       (2) take account of the continual expert assessments of 
+     evolving sensitive or emerging technologies that foreign 
+     adversaries are targeting;
+       (3) take account of relevant information concerning the 
+     foreign person's employment or collaboration, to the extent 
+     known, with--
+       (A) foreign military and security related organizations 
+     that are adversarial to the United States;
+       (B) foreign institutions involved in the theft of United 
+     States research;
+       (C) entities involved in export control violations or the 
+     theft of intellectual property;
+       (D) a government that seeks to undermine the integrity and 
+     security of the United States research community; or
+       (E) other associations or collaborations that pose a 
+     national security threat based on intelligence assessments; 
+     and
+       (4) weigh the proportionality of risks and the factors 
+     listed in paragraphs (1) through (3).
+       (c) Sanctions Described.--The sanctions described in this 
+     subsection are the following:
+       (1) Ineligibility for visas and admission to the united 
+     states.--An alien described in subsection (a) may be--
+       (A) inadmissible to the United States;
+       (B) ineligible to receive a visa or other documentation to 
+     enter the United States; and
+       (C) otherwise ineligible to be admitted or paroled into the 
+     United States or to receive any other benefit under the 
+     Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+       (2) Current visas revoked.--
+       (A) In general.--An alien described in subsection (a) is 
+     subject to revocation of any visa or other entry 
+     documentation regardless of when the visa or other entry 
+     documentation is or was issued.
+       (B) Immediate effect.--A revocation under subparagraph (A) 
+     shall take effect immediately, and automatically cancel any 
+     other valid visa or entry documentation that is in the 
+     alien's possession, in accordance with section 221(i) of the 
+     Immigration and Nationality Act (8 U.S.C. 1201(i)).
+       (3) Exception to comply with international obligations.--
+     The sanctions described in this subsection shall not apply 
+     with respect to an alien if admitting or paroling the alien 
+     into the United States is necessary to permit the United 
+     States to comply with the Agreement regarding the 
+     Headquarters of the United Nations, signed at Lake Success 
+     June 26, 1947, and entered into force November 21, 1947, 
+     between the United Nations and the United States, or other 
+     applicable international obligations.
+       (d) Reporting Requirement.--Not later than 180 days after 
+     the date of the enactment of this Act, and semi-annually 
+     thereafter until the sunset date set forth in subsection (f), 
+     the Secretary of State, in coordination with the Director of 
+     National Intelligence, the Director of the Office of Science 
+     and Technology Policy, the Secretary of Homeland Security, 
+     the Secretary of Defense, the Secretary of Energy, the 
+     Secretary of Commerce, and the heads of other appropriate 
+     Federal agencies, shall submit a report to the Committee on 
+     the Judiciary of the Senate, the Committee on Foreign 
+     Relations of
+
+[[Page S3643]]
+
+     the Senate, the Committee on Homeland Security and 
+     Governmental Affairs of the Senate, the Committee on the 
+     Judiciary of the House of Representatives, the Committee on 
+     Foreign Affairs of the House of Representatives, and the 
+     Committee on Oversight and Reform of the House of 
+     Representatives that identifies--
+       (1) any criteria, if relevant, used to determine whether an 
+     alien is subject to sanctions under subsection (a);
+       (2) the number of individuals determined to be subject to 
+     sanctions under subsection (a), including the nationality of 
+     each such individual and the reasons for each sanctions 
+     determination; and
+       (3) the number of days from the date of the consular 
+     interview until a final decision is issued for each 
+     application for a visa considered under this section, listed 
+     by applicants' country of citizenship and relevant consulate.
+       (e) Classification of Report.--Each report required under 
+     subsection (d) shall be submitted, to the extent practicable, 
+     in an unclassified form, but may be accompanied by a 
+     classified annex.
+       (f) Sunset.--This section shall cease to be effective on 
+     the date that is 2 years after the date of the enactment of 
+     this Act.
+
+     SEC. __. PRIVACY AND CONFIDENTIALITY.
+
+       Nothing in this title may be construed as affecting the 
+     rights and requirements provided in section 552a of title 5, 
+     United States Code (commonly known as the ``Privacy Act of 
+     1974'') or subchapter III of chapter 35 of title 44, United 
+     States Code (commonly known as the ``Confidential Information 
+     Protection and Statistical Efficiency Act of 2018'').
+                                 ______
+
+
+

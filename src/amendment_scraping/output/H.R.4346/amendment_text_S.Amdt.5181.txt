@@ -1,0 +1,864 @@
+
+[Pages S3655-S3659]
+From the Congressional Record Online through the Government Publishing Office [www.gpo.gov]
+
+  SA 5181. Mr. COTTON submitted an amendment intended to be proposed to 
+amendment SA 5135 proposed by Mr. Schumer to the bill H.R. 4346, making 
+appropriations for Legislative Branch for the fiscal year ending 
+September 30, 2022, and for other purposes; which was ordered to lie on 
+the table; as follows:
+
+        Beginning on page 41, strike line 17 and all that follows 
+     through line 5 on page 84, and insert the following:
+       ``(ii) includes semiconductor fabrication, assembly, 
+     testing, packaging, research and development, and any 
+     additional process identified by the Secretary.
+       ``(C) Required agreement.--
+       ``(i) In general.--On or before the date on which the 
+     Secretary awards Federal financial assistance to a covered 
+     entity under this section, the covered entity shall enter 
+     into an agreement with the Secretary specifying that, during 
+     the 10-year period beginning on the date of the award, the 
+     covered entity may not engage in any transaction, as defined 
+     in the agreement, involving the expansion of semiconductor 
+     manufacturing capacity in the People's Republic of China or 
+     any other foreign country of concern.
+       ``(ii) Affiliated group.--For the purpose of applying the 
+     requirements in an agreement required under clause (i), a 
+     covered entity shall include the covered entity receiving 
+     financial assistance under this section, as well as any 
+     member of the covered entity's affiliated group under section 
+     1504(a) of the Internal Revenue Code of 1986, without regard 
+     to section 1504(b)(3) of such Code.
+       ``(D) Notification requirements.--During the applicable 
+     term of the agreement of a covered entity required under 
+     subparagraph (C)(i), the covered entity shall notify the 
+     Secretary of any planned transactions of the covered entity 
+     involving the expansion of semiconductor manufacturing 
+     capacity in the People's Republic of China or any other 
+     foreign country of concern.
+       ``(E) Violation of agreement.--
+       ``(i) Notification to covered entities.--Not later than 90 
+     days after the date of receipt of a notification described in 
+     subparagraph (D) from a covered entity, the Secretary, in 
+     consultation with the Secretary of Defense and the Director 
+     of National Intelligence, shall--
+
+       ``(I) determine whether the transaction described in the 
+     notification would be a violation of the agreement of the 
+     covered entity required under subparagraph (C)(i); and
+       ``(II) notify the covered entity of the Secretary's 
+     decision under subclause (I).
+
+       ``(ii) Opportunity to remedy.--Upon a notification under 
+     clause (i)(II) that a planned transaction of a covered entity 
+     is a violation of the agreement of the covered entity 
+     required under subparagraph (C)(i), the Secretary shall--
+
+       ``(I) immediately request from the covered entity tangible 
+     proof that the planned transaction has ceased or been 
+     abandoned; and
+       ``(II) provide the covered entity 45 days to produce and 
+     provide to the Secretary the tangible proof described in 
+     subclause (I).
+
+       ``(iii) Failure by the covered entity to cease or remedy 
+     the activity.--If a covered entity fails to remedy a 
+     violation as set forth under clause (ii), the Secretary shall 
+     recover the full amount of the Federal financial assistance 
+     provided to the covered entity under this section.
+       ``(F) Submission of records.--
+       ``(i) In general.--The Secretary may request from a covered 
+     entity records and other necessary information to review the 
+     compliance of the covered entity with the agreement required 
+     under subparagraph (C)(i).
+       ``(ii) Eligibility.--In order to be eligible for Federal 
+     financial assistance under this section, a covered entity 
+     shall agree to provide records and other necessary 
+     information requested by the Secretary under clause (i).
+       ``(G) Confidentiality of records.--
+       ``(i) In general.--Subject to clause (ii), any information 
+     derived from records or necessary information disclosed by a 
+     covered entity to the Secretary under this section--
+
+       ``(I) shall be exempt from disclosure under section 
+     552(b)(3) of title 5, United States Code; and
+       ``(II) shall not be made public.
+
+       ``(ii) Exceptions.--Clause (i) shall not prevent the 
+     disclosure of any of the following by the Secretary:
+
+       ``(I) Information relevant to any administrative or 
+     judicial action or proceeding.
+       ``(II) Information that a covered entity has consented to 
+     be disclosed to third parties.
+       ``(III) Information necessary to fulfill the requirement of 
+     the congressional notification under subparagraph (H).
+
+       ``(H) Congressional notification.--Not later than 60 days 
+     after the date on which the Secretary finds a violation by a 
+     covered entity of an agreement required under subparagraph 
+     (C)(i), and after providing the covered entity with an 
+     opportunity to provide information in response to that 
+     finding, the Secretary shall provide to the appropriate 
+     Committees of Congress--
+       ``(i) a notification of the violation;
+       ``(ii) a brief description of how the Secretary determined 
+     the covered entity to be in violation; and
+       ``(iii) a summary of any actions or planned actions by the 
+     Secretary in response to the violation.
+       ``(I) Regulations.--The Secretary may issue regulations 
+     implementing this paragraph.''; and
+       (6) by adding at the end the following:
+       ``(d) Sense of Congress.--It is the sense of Congress that, 
+     in carrying out subsection (a), the Secretary should allocate 
+     funds in a manner that--
+       ``(1) strengthens the security and resilience of the 
+     semiconductor supply chain, including by mitigating gaps and 
+     vulnerabilities;
+       ``(2) provides a supply of secure semiconductors relevant 
+     for national security;
+       ``(3) strengthens the leadership of the United States in 
+     semiconductor technology;
+       ``(4) grows the economy of the United States and supports 
+     job creation in the United States;
+       ``(5) bolsters the semiconductor and skilled technical 
+     workforces in the United States;
+       ``(6) promotes the inclusion of economically disadvantaged 
+     individuals and small businesses; and
+       ``(7) improves the resiliency of the semiconductor supply 
+     chains of critical manufacturing industries.
+       ``(e) Additional Assistance for Mature Technology Nodes.--
+       ``(1) In general.--The Secretary shall establish within the 
+     program established under subsection (a) an additional 
+     program that provides Federal financial assistance to covered 
+     entities to incentivize investment in facilities and 
+     equipment in the United States for the fabrication, assembly, 
+     testing, or packaging of semiconductors at mature technology 
+     nodes.
+       ``(2) Eligibility and requirements.--In order for an entity 
+     to qualify to receive Federal financial assistance under this 
+     subsection, the covered entity shall agree to--
+       ``(A) submit an application under subsection (a)(2)(A);
+       ``(B) meet the eligibility requirements under subsection 
+     (a)(2)(B);
+       ``(C)(i) provide equipment or materials for the 
+     fabrication, assembly, testing, or packaging of 
+     semiconductors at mature technology nodes in the United 
+     States; or
+       ``(ii) fabricate, assemble using packaging, or test 
+     semiconductors at mature technology nodes in the United 
+     States;
+       ``(D) commit to using any Federal financial assistance 
+     received under this section to increase the production of 
+     semiconductors at mature technology nodes; and
+       ``(E) be subject to the considerations described in 
+     subsection (a)(2)(C).
+       ``(3) Procedures.--In granting Federal financial assistance 
+     to covered entities under this subsection, the Secretary may 
+     use the procedures established under subsection (a).
+       ``(4) Considerations.--In addition to the considerations 
+     described in subsection (a)(2)(C), in granting Federal 
+     financial assistance under this subsection, the Secretary may 
+     consider whether a covered entity produces or supplies 
+     equipment or materials used in the fabrication, assembly, 
+     testing, or packaging of semiconductors at mature technology 
+     nodes that are necessary to support a critical manufacturing 
+     industry.
+       ``(5) Priority.--In awarding Federal financial assistance 
+     to covered entities under this subsection, the Secretary 
+     shall give priority to covered entities that support the 
+     resiliency of semiconductor supply chains for critical 
+     manufacturing industries in the United States.
+       ``(6) Authorization of appropriations.--There are 
+     authorized to be appropriated to the Secretary to carry out 
+     this subsection $2,000,000,000, which shall remain available 
+     until expended.
+       ``(f) Construction Projects.--Section 602 of the Public 
+     Works and Economic Development Act of 1965 (42 U.S.C. 3212) 
+     shall apply to a construction project that receives financial 
+     assistance from the Secretary under this section.
+       ``(g) Loans and Loan Guarantees.--
+       ``(1) In general.--Subject to the requirements of 
+     subsection (a) and this subsection, the Secretary may make or 
+     guarantee loans to covered entities as financial assistance 
+     under this section.
+       ``(2) Conditions.--The Secretary may select eligible 
+     projects to receive loans or loan guarantees under this 
+     subsection if the Secretary determines that--
+       ``(A) the covered entity--
+       ``(i) has a reasonable prospect of repaying the principal 
+     and interest on the loan; and
+       ``(ii) has met such other criteria as may be established 
+     and published by the Secretary; and
+       ``(B) the amount of the loan (when combined with amounts 
+     available to the loan recipient from other sources) will be 
+     sufficient to carry out the project.
+       ``(3) Reasonable prospect of repayment.--The Secretary 
+     shall base a determination of whether there is a reasonable 
+     prospect of repayment of the principal and interest on a loan 
+     under paragraph (2)(A)(i) on a comprehensive evaluation of 
+     whether the covered entity has a reasonable prospect of 
+     repaying the principal and interest, including, as 
+     applicable, an evaluation of--
+       ``(A) the strength of the contractual terms of the project 
+     the covered entity plans to perform (if commercially 
+     reasonably available);
+       ``(B) the forecast of noncontractual cash flows supported 
+     by market projections from
+
+[[Page S3656]]
+
+     reputable sources, as determined by the Secretary;
+       ``(C) cash sweeps and other structure enhancements;
+       ``(D) the projected financial strength of the covered 
+     entity--
+       ``(i) at the time of loan close; and
+       ``(ii) throughout the loan term after the project is 
+     completed;
+       ``(E) the financial strength of the investors and strategic 
+     partners of the covered entity, if applicable;
+       ``(F) other financial metrics and analyses that the private 
+     lending community and nationally recognized credit rating 
+     agencies rely on, as determined appropriate by the Secretary; 
+     and
+       ``(G) such other criteria the Secretary may determine 
+     relevant.
+       ``(4) Rates, terms, and repayments of loans.--A loan 
+     provided under this subsection--
+       ``(A) shall have an interest rate that does not exceed a 
+     level that the Secretary determines appropriate, taking into 
+     account, as of the date on which the loan is made, the cost 
+     of funds to the Department of the Treasury for obligations of 
+     comparable maturity; and
+       ``(B) shall have a term of not more than 25 years.
+       ``(5) Additional terms.--A loan or guarantee provided under 
+     this subsection may include any other terms and conditions 
+     that the Secretary determines to be appropriate.
+       ``(6) Responsible lender.--No loan may be guaranteed under 
+     this subsection, unless the Secretary determines that--
+       ``(A) the lender is responsible; and
+       ``(B) adequate provision is made for servicing the loan on 
+     reasonable terms and protecting the financial interest of the 
+     United States.
+       ``(7) Advanced budget authority.--New loans may not be 
+     obligated and new loan guarantees may not be committed to 
+     under this subsection, unless appropriations of budget 
+     authority to cover the costs of such loans and loan 
+     guarantees are made in advance in accordance with section 
+     504(b) of the Federal Credit Reform Act of 1990 (2 U.S.C. 
+     661c(b)).
+       ``(8) Continued oversight.--The loan agreement for a loan 
+     guaranteed under this subsection shall provide that no 
+     provision of the loan agreement may be amended of waived 
+     without the consent of the Secretary.
+       ``(h) Oversight.--Not later than 4 years after disbursement 
+     of the first financial award under subsection (a), the 
+     Inspector General of the Department of Commerce shall audit 
+     the program under this section to assess--
+       ``(1) whether the eligibility requirements for covered 
+     entities receiving financial assistance under the program are 
+     met;
+       ``(2) whether eligible entities use the financial 
+     assistance received under the program in accordance with the 
+     requirements of this section;
+       ``(3) whether the covered entities receiving financial 
+     assistance under this program have carried out the 
+     commitments made to worker and community investment under 
+     subsection (a)(2)(B)(ii)(II) by the target date for 
+     completion set by the Secretary under subsection (a)(5)(A);
+       ``(4) whether the required agreement entered into by 
+     covered entities and the Secretary under subsection 
+     (a)(6)(C)(i), including the notification process, has been 
+     carried out to provide covered entities sufficient guidance 
+     about a violation of the required agreement; and
+       ``(5) whether the Secretary has provided timely 
+     Congressional notification about violations of the required 
+     agreement under subsection (a)(6)(C)(i), including the 
+     required information on how the Secretary reached a 
+     determination of whether a covered entity was in violation 
+     under subsection (a)(6)(E).
+       ``(i) Prohibition on Use of Funds.--No funds made available 
+     under this section may be used to construct, modify, or 
+     improve a facility outside of the United States.''.
+       (c) Advanced Microelectronics Research and Development.--
+     Section 9906 of the William M. (Mac) Thornberry National 
+     Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 
+     4656) is amended--
+       (1) in subsection (a)(3)(A)(ii)--
+       (A) in subclause (II), by inserting ``, including for 
+     technologies based on organic and inorganic materials'' after 
+     ``components''; and
+       (B) in subclause (V), by striking ``and supply chain 
+     integrity'' and inserting ``supply chain integrity, and 
+     workforce development'';
+       (2) in subsection (c)--
+       (A) in paragraph (1)--
+       (i) by inserting ``and grow the domestic semiconductor 
+     workforce'' after ``prototyping of advanced semiconductor 
+     technology''; and
+       (ii) by adding at the end the following: ``The Secretary 
+     may make financial assistance awards, including construction 
+     awards, in support of the national semiconductor technology 
+     center.''; and
+       (B) in paragraph (2)--
+       (i) in subparagraph (B), by inserting ``and capitalize'' 
+     before ``an investment fund''; and
+       (ii) by striking subparagraph (C) and inserting the 
+     following:
+       ``(C) To work with the Secretary of Labor, the Director of 
+     the National Science Foundation, the Secretary of Energy, the 
+     private sector, institutions of higher education, and 
+     workforce training entities to incentivize and expand 
+     geographically diverse participation in graduate, 
+     undergraduate, and community college programs relevant to 
+     microelectronics, including through--
+       ``(i) the development and dissemination of curricula and 
+     research training experiences; and
+       ``(ii) the development of workforce training programs and 
+     apprenticeships in advanced microelectronic design, research, 
+     fabrication, and packaging capabilities.'';
+       (3) in subsection (d)--
+       (A) by striking ``the Manufacturing USA institute'' and 
+     inserting ``a Manufacturing USA institute''; and
+       (B) by adding at the end the following: ``The Director may 
+     make financial assistance awards, including construction 
+     awards, in support of the National Advanced Packaging 
+     Manufacturing Program.'';
+       (4) in subsection (f)--
+       (A) in the matter preceding paragraph (1)--
+       (i) by striking ``a Manufacturing USA Institute'' and 
+     inserting ``not more than 3 Manufacturing USA Institutes'';
+       (ii) by striking ``is focused on semiconductor 
+     manufacturing.'' and inserting ``are focused on semiconductor 
+     manufacturing. The Secretary of Commerce may award financial 
+     assistance to any Manufacturing USA Institute for work 
+     relating to semiconductor manufacturing.''; and
+       (iii) by striking ``Such institute may emphasize'' and 
+     inserting ``Such institutes may emphasize''; and
+       (5) by adding at the end the following:
+       ``(h) Construction Projects.--Section 602 of the Public 
+     Works and Economic Development Act of 1965 (42 U.S.C. 3212) 
+     shall apply to a construction project that receives financial 
+     assistance under this section.''.
+       (d) Additional Authorities.--Division H of title XCIX of 
+     the William M. (Mac) Thornberry National Defense 
+     Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651 et 
+     seq.) is amended by adding at the end the following:
+
+     ``SEC. 9909. ADDITIONAL AUTHORITIES.
+
+       ``(a) In General.--In carrying out the responsibilities of 
+     the Department of Commerce under this division, the Secretary 
+     may--
+       ``(1) enter into agreements, including contracts, grants 
+     and cooperative agreements, and other transactions as may be 
+     necessary and on such terms as the Secretary considers 
+     appropriate;
+       ``(2) make advance payments under agreements and other 
+     transactions authorized under paragraph (1) without regard to 
+     section 3324 of title 31, United States Code;
+       ``(3) require a person or other entity to make payments to 
+     the Department of Commerce upon application and as a 
+     condition for receiving support through an award of 
+     assistance or other transaction;
+       ``(4) procure temporary and intermittent services of 
+     experts and consultants in accordance with section 3109 of 
+     title 5, United States Code;
+       ``(5) notwithstanding section 3104 of title 5, United 
+     States Code, or the provisions of any other law relating to 
+     the appointment, number, classification, or compensation of 
+     employees, make appointments of scientific, engineering, and 
+     professional personnel, and fix the basic pay of such 
+     personnel at a rate to be determined by the Secretary at 
+     rates not in excess of the highest total annual compensation 
+     payable at the rate determined under section 104 of title 3, 
+     United States Code, except that the Secretary shall appoint 
+     not more than 25 personnel under this paragraph;
+       ``(6) with the consent of another Federal agency, enter 
+     into an agreement with that Federal agency to use, with or 
+     without reimbursement, any service, equipment, personnel, or 
+     facility of that Federal agency; and
+       ``(7) establish such rules, regulations, and procedures as 
+     the Secretary considers appropriate.
+       ``(b) Requirement.--Any funds received from a payment made 
+     by a person or entity pursuant to subsection (a)(3) shall be 
+     credited to and merged with the account from which support to 
+     the person or entity was made''.
+       (e) Conforming Amendment.--The table of contents for 
+     division H of title XCIX of the William M. (Mac) Thornberry 
+     National Defense Authorization Act for Fiscal Year 2021 
+     (Public Law 116-283) is amended by adding after the item 
+     relating to section 9908 the following:
+
+``9909. Additional authorities.''.
+
+     SEC. 104. OPPORTUNITY AND INCLUSION.
+
+       (a) Establishment.--Not later than 180 days after the date 
+     of enactment of this Act, the Secretary of Commerce shall 
+     establish activities in the Department of Commerce, within 
+     the program established under section 9902 of the William M. 
+     (Mac) Thornberry National Defense Authorization Act for 
+     Fiscal Year 2021 (15 U.S.C. 4652), to carry out this section 
+     using funds appropriated under this Act.
+       (b) In General.--The Secretary of Commerce shall assign 
+     personnel to lead and support the activities carried out 
+     under this section, including coordination with other 
+     workforce development activities of the Department of 
+     Commerce or of Federal agencies, as defined in section 551 of 
+     title 5, United States Code, as appropriate.
+       (c) Activities.--Personnel assigned by the Secretary to 
+     carry out the activities under this section shall--
+       (1) assess the eligibility of a covered entity, as defined 
+     in section 9901 of the William M. (Mac) Thornberry National 
+     Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 
+     4651), for financial assistance for a
+
+[[Page S3657]]
+
+     project with respect to the requirements under subclauses 
+     (II) and (III) of section 9902(a)(2)(B)(ii) of the William M. 
+     (Mac) Thornberry National Defense Authorization Act for 
+     Fiscal Year 2021 (15 U.S.C. 4652(a)(2)(B)(ii)(II) and (III));
+       (2) ensure that each covered entity, as defined in section 
+     9901 of the William M. (Mac) Thornberry National Defense 
+     Authorization Act for Fiscal Year 2021 (15 U.S.C. 4651),that 
+     is awarded financial assistance under section 9902 of that 
+     Act (15 U.S.C. 4652) is carrying out the commitments of the 
+     covered entity to economically disadvantaged individuals as 
+     described in the application of the covered entity under that 
+     section by the target dates for completion established by the 
+     Secretary of Commerce under subsection(a)(5)(A) of that 
+     section; and
+       (3) increase participation of and outreach to economically 
+     disadvantaged individuals, minority-owned businesses, 
+     veteran-owned businesses, and women-owned businesses, as 
+     defined by the Secretary of Commerce, respectively, in the 
+     geographic area of a project under section 9902 of the 
+     William M. (Mac) Thornberry National Defense Authorization 
+     Act for Fiscal Year 2021 (15 U.S.C. 4652) and serve as a 
+     resource for those individuals, businesses, and covered 
+     entities.
+       (d) Staff.--The activities under this section shall be 
+     staffed at the appropriate levels to carry out the functions 
+     and responsibilities under this section until 95 percent of 
+     the amounts of funds made available for the program 
+     established under section 9902 of the William M. (Mac) 
+     Thornberry National Defense Authorization Act for Fiscal Year 
+     2021 (15 U.S.C. 4652) have been expended.
+       (e) Report.--Beginning on the date that is 1 year after the 
+     date on which the Secretary of Commerce establishes the 
+     activities described in subsection (c), the Secretary of 
+     Commerce shall submit to the appropriate committees of 
+     Congress, as defined in section 9901(1) of the William M. 
+     (Mac) Thornberry National Defense Authorization Act for 
+     Fiscal Year 2021 (15 U.S.C. 4651), and make publicly 
+     available on the website of the Department of Commerce an 
+     annual report regarding the actions taken by the Department 
+     of Commerce under this section.
+
+     SEC. 105. ADDITIONAL GAO REPORTING REQUIREMENTS.
+
+       (a) NDAA.--Section 9902(c) of William M. (Mac) Thornberry 
+     National Defense Authorization Act for Fiscal Year 2021 (15 
+     U.S.C. 4652(c)) is amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (B)--
+       (i) in clause (i), by striking ``; and'' and inserting a 
+     semicolon; and
+       (ii) by adding at the end the following:
+       ``(iii) the Federal Government could take specific actions 
+     to address shortages in the semiconductor supply chain, 
+     including--
+
+       ``(I) demand-side incentives, including incentives related 
+     to the information and communications technology supply 
+     chain; and
+       ``(II) additional incentives, at national and global 
+     scales, to accelerate utilization of leading-edge 
+     semiconductor nodes to address shortages in mature 
+     semiconductor nodes; and''; and
+
+       (B) in subparagraph (C)--
+       (i) in clause (iii), by striking ``; and'' and inserting a 
+     semicolon; and
+       (ii) by inserting after clause (iv) the following:
+       ``(v) how projects are supporting the semiconductor needs 
+     of critical infrastructure industries in the United States, 
+     including those industries designated by the Cybersecurity 
+     and Infrastructure Security Agency as essential 
+     infrastructure industries; and''; and
+       (2) by inserting after paragraph (1)(C)(iv) the following:
+       ``(D) drawing on data made available by the Department of 
+     Labor or other sources, to the extent practicable, an 
+     analysis of--
+       ``(i) semiconductor industry data regarding businesses that 
+     are--
+
+       ``(I) majority owned and controlled by minority 
+     individuals;
+       ``(II) majority owned and controlled by women; or
+       ``(III) majority owned and controlled by both women and 
+     minority individuals;
+
+       ``(ii) the number and amount of contracts and subcontracts 
+     awarded by each covered entity using funds made available 
+     under subsection (a) disaggregated by recipients of each such 
+     contract or subcontracts that are majority owned and 
+     controlled by minority individuals and majority owned and 
+     controlled by women; and
+       ``(iii) aggregated workforce data, including data by race 
+     or ethnicity, sex, and job categories.''.
+       (b) Department of Defense.--Section 9202(a)(1)(G)(ii)(I) of 
+     the William M. (Mac) Thornberry National Defense 
+     Authorization Act for Fiscal Year 2021 (47 U.S.C. 
+     906(a)(1)(G)(ii)(I)) is amended by inserting ``(including 
+     whether recipients are majority owned and controlled by 
+     minority individuals and majority owned and controlled by 
+     women)'' after ``to whom''.
+
+     SEC. 106. APPROPRIATIONS FOR WIRELESS SUPPLY CHAIN 
+                   INNOVATION.
+
+       (a) Direct Appropriations.--In addition to amounts 
+     otherwise available for such purposes, there is appropriated 
+     to the Public Wireless Supply Chain Innovation Fund 
+     established under section 9202(a)(1) of the William M. (Mac) 
+     Thornberry National Defense Authorization Act for Fiscal Year 
+     2021 (15 U.S.C. 4652(a)(1)), out of amounts in the Treasury 
+     not otherwise appropriated--
+       (1) $150,000,000 for fiscal year 2022, to remain available 
+     until September 30, 2031; and
+       (2) $1,350,000,000 for fiscal year 2023, to remain 
+     available until September 30, 2032.
+       (b) Use of Funds, Administration, and Oversight.--Of the 
+     amounts made available under subsection (a)--
+       (1) not more than 5 percent of the amounts allocated 
+     pursuant to subsection (c) in a given fiscal year may be used 
+     by the Assistant Secretary of Commerce for Communications and 
+     Information to administer the programs funded from the Public 
+     Wireless Supply Chain Innovation Fund; and
+       (2) not less than $2,000,000 per fiscal year shall be 
+     transferred to the Office of Inspector General of the 
+     Department of Commerce for oversight related to activities 
+     conducted using amounts provided under this section.
+       (c) Allocation Authority.--
+       (1) Submission of cost estimates.--The President shall 
+     submit to Congress detailed account, program, and project 
+     allocations of the amount recommended for allocation in a 
+     fiscal year from amounts made available under subsection 
+     (a)--
+       (A) for fiscal years 2022 and 2023, not later than 60 days 
+     after the date of enactment of this Act; and
+       (B) for each subsequent fiscal year through 2032, as part 
+     of the annual budget submission of the President under 
+     section 1105(a) of title 31, United States Code.
+       (2) Alternate allocation.--
+       (A) In general.--The Committees on Appropriations of the 
+     House of Representatives and the Senate may provide for 
+     alternate allocation of amounts recommended for allocation in 
+     a given fiscal year from amounts made available under 
+     subsection (a), including by account, program, and project.
+       (B) Allocation by president.--
+       (i) No alternate allocations.--If Congress has not enacted 
+     legislation establishing alternate allocations, including by 
+     account, program, and project, by the date on which the Act 
+     making full-year appropriations for the Departments of 
+     Commerce and Justice, Science, and Related Agencies for the 
+     applicable fiscal year is enacted into law, only then shall 
+     amounts recommended for allocation for that fiscal year from 
+     amounts made available under subsection (a) be allocated by 
+     the President or apportioned or allotted by account, program, 
+     and project pursuant to title 31, United States Code.
+       (ii) Insufficient alternate allocation.--If Congress enacts 
+     legislation establishing alternate allocations, including by 
+     account, program, and project, for amounts recommended for 
+     allocation in a given fiscal year from amounts made available 
+     under subsection (a) that are less than the full amount 
+     recommended for allocation for that fiscal year, the 
+     difference between the amount recommended for allocation and 
+     the alternate allocation shall be allocated by the President 
+     and apportioned and allotted by account, program, and project 
+     pursuant to title 31, United States Code.
+       (d) Sequestration.--Section 255(g)(1)(A) of the Balanced 
+     Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 
+     905(g)(1)(A)) is amended by inserting after ``Postal Service 
+     Fund (18-4020-0-3-372).'' the following:
+       ``Public Wireless Supply Chain Innovation Fund.''.
+       (e) Budgetary Effects.--
+       (1) Statutory paygo scorecards.--The budgetary effects of 
+     this section shall not be entered on either PAYGO scorecard 
+     maintained pursuant to section 4(d) of the Statutory Pay-As-
+     You-Go Act of 2010.
+       (2) Senate paygo scorecards.--The budgetary effects of this 
+     section shall not be entered on any PAYGO scorecard 
+     maintained for purposes of section 4106 of H. Con. Res. 71 
+     (115th Congress).
+       (3) Classification of budgetary effects.--Notwithstanding 
+     Rule 3 of the Budget Scorekeeping Guidelines set forth in the 
+     joint explanatory statement of the committee of conference 
+     accompanying Conference Report 105-217 and section 250(c)(8) 
+     of the Balanced Budget and Emergency Deficit Control Act of 
+     1985, the budgetary effects of this section shall not be 
+     estimated--
+       (A) for purposes of section 251 of such Act;
+       (B) for purposes of an allocation to the Committee on 
+     Appropriations pursuant to section 302(a) of the 
+     Congressional Budget Act of 1974; and
+       (C) for purposes of paragraph (4)(C) of section 3 of the 
+     Statutory Pay-As-You-Go Act of 2010 as being included in an 
+     appropriation Act.
+
+     SEC. 107. ADVANCED MANUFACTURING INVESTMENT CREDIT.
+
+       (a) In General.--Subpart E of part IV of subchapter A of 
+     chapter 1 of the Internal Revenue Code of 1986 is amended by 
+     inserting after section 48C the following new section:
+
+     ``SEC. 48D. ADVANCED MANUFACTURING INVESTMENT CREDIT.
+
+       ``(a) Establishment of Credit.--For purposes of section 46, 
+     the advanced manufacturing investment credit for any taxable 
+     year is an amount equal to 25 percent of the qualified 
+     investment for such taxable year with respect to any advanced 
+     manufacturing facility of an eligible taxpayer.
+       ``(b) Qualified Investment.--
+       ``(1) In general.--For purposes of subsection (a), the 
+     qualified investment with respect to any advanced 
+     manufacturing facility for any taxable year is the basis of 
+     any qualified property placed in service by the taxpayer 
+     during such taxable year which is part of an advanced 
+     manufacturing facility.
+       ``(2) Qualified property.--
+       ``(A) In general.--For purposes of this subsection, the 
+     term `qualified property' means property--
+
+[[Page S3658]]
+
+       ``(i) which is tangible property,
+       ``(ii) with respect to which depreciation (or amortization 
+     in lieu of depreciation) is allowable,
+       ``(iii) which is--
+
+       ``(I) constructed, reconstructed, or erected by the 
+     taxpayer, or
+       ``(II) acquired by the taxpayer if the original use of such 
+     property commences with the taxpayer, and
+
+       ``(iv) which is integral to the operation of the advanced 
+     manufacturing facility.
+       ``(B) Buildings and structural components.--
+       ``(i) In general.--The term `qualified property' includes 
+     any building or its structural components which otherwise 
+     satisfy the requirements under subparagraph (A).
+       ``(ii) Exception.--Clause (i) shall not apply with respect 
+     to a building or portion of a building used for offices, 
+     administrative services, or other functions unrelated to 
+     manufacturing.
+       ``(3) Advanced manufacturing facility.--For purposes of 
+     this section, the term `advanced manufacturing facility' 
+     means a facility for which the primary purpose is the 
+     manufacturing of semiconductors or semiconductor 
+     manufacturing equipment.
+       ``(4) Coordination with rehabilitation credit.--The 
+     qualified investment with respect to any advanced 
+     manufacturing facility for any taxable year shall not include 
+     that portion of the basis of any property which is 
+     attributable to qualified rehabilitation expenditures (as 
+     defined in section 47(c)(2)).
+       ``(5) Certain progress expenditure rules made applicable.--
+     Rules similar to the rules of subsections (c)(4) and (d) of 
+     section 46 (as in effect on the day before the date of the 
+     enactment of the Revenue Reconciliation Act of 1990) shall 
+     apply for purposes of subsection (a).
+       ``(c) Eligible Taxpayer.--For purposes of this section, the 
+     term `eligible taxpayer' means any taxpayer which--
+       ``(1) is not a foreign entity of concern (as defined in 
+     section 9901(6) of the William M. (Mac) Thornberry National 
+     Defense Authorization Act for Fiscal Year 2021), and
+       ``(2) has not made an applicable transaction (as defined in 
+     section 50(a)) during the taxable year.
+       ``(d) Elective Payment.--
+       ``(1) In general.--Except as otherwise provided in 
+     paragraph (2)(A), in the case of a taxpayer making an 
+     election (at such time and in such manner as the Secretary 
+     may provide) under this subsection with respect to the credit 
+     determined under subsection (a) with respect to such 
+     taxpayer, such taxpayer shall be treated as making a payment 
+     against the tax imposed by subtitle A (for the taxable year 
+     with respect to which such credit was determined) equal to 
+     the amount of such credit.
+       ``(2) Special rules.--For purposes of this subsection--
+       ``(A) Application to partnerships and s corporations.--
+       ``(i) In general.--In the case of the credit determined 
+     under subsection (a) with respect to any property held 
+     directly by a partnership or S corporation, any election 
+     under paragraph (1) shall be made by such partnership or S 
+     corporation. If such partnership or S corporation makes an 
+     election under such paragraph (in such manner as the 
+     Secretary may provide) with respect to such credit--
+
+       ``(I) the Secretary shall make a payment to such 
+     partnership or S corporation equal to the amount of such 
+     credit,
+       ``(II) paragraph (3) shall be applied with respect to such 
+     credit before determining any partner's distributive share, 
+     or shareholder's pro rata share, of such credit,
+       ``(III) any amount with respect to which the election in 
+     paragraph (1) is made shall be treated as tax exempt income 
+     for purposes of sections 705 and 1366, and
+       ``(IV) a partner's distributive share of such tax exempt 
+     income shall be based on such partner's distributive share of 
+     the otherwise applicable credit for each taxable year.
+
+       ``(ii) Coordination with application at partner or 
+     shareholder level.--In the case of any property held directly 
+     by a partnership or S corporation, no election by any partner 
+     or shareholder shall be allowed under paragraph (1) with 
+     respect to any credit determined under subsection (a) with 
+     respect to such property.
+       ``(B) Elections.--Any election under paragraph (1) shall be 
+     made not later than the due date (including extensions of 
+     time) for the return of tax for the taxable year for which 
+     the election is made, but in no event earlier than 270 days 
+     after the date of the enactment of this section. Any such 
+     election, once made, shall be irrevocable. Except as 
+     otherwise provided in this subparagraph, any election under 
+     paragraph (1) shall apply with respect to any credit for the 
+     taxable year for which the election is made.
+       ``(C) Timing.--The payment described in paragraph (1) shall 
+     be treated as made on the later of the due date (determined 
+     without regard to extensions) of the return of tax for the 
+     taxable year or the date on which such return is filed.
+       ``(D) Treatment of payments to partnerships and s 
+     corporations.--For purposes of section 1324 of title 31, 
+     United States Code, the payments under subparagraph (A)(i)(I) 
+     shall be treated in the same manner as a refund due from a 
+     credit provision referred to in subsection (b)(2) of such 
+     section.
+       ``(E) Additional information.--As a condition of, and prior 
+     to, any amount being treated as a payment which is made by 
+     the taxpayer under paragraph (1) or any payment being made 
+     pursuant to subparagraph (A), the Secretary may require such 
+     information or registration as the Secretary deems necessary 
+     or appropriate for purposes of preventing duplication, fraud, 
+     improper payments, or excessive payments under this section.
+       ``(F) Excessive payment.--
+       ``(i) In general.--In the case of any amount treated as a 
+     payment which is made by the taxpayer under paragraph (1), or 
+     any payment made pursuant to subparagraph (A), which the 
+     Secretary determines constitutes an excessive payment, the 
+     tax imposed on such taxpayer by chapter 1 for the taxable 
+     year in which such determination is made shall be increased 
+     by an amount equal to the sum of--
+
+       ``(I) the amount of such excessive payment, plus
+       ``(II) an amount equal to 20 percent of such excessive 
+     payment.
+
+       ``(ii) Reasonable cause.--Clause (i)(II) shall not apply if 
+     the taxpayer demonstrates to the satisfaction of the 
+     Secretary that the excessive payment resulted from reasonable 
+     cause.
+       ``(iii) Excessive payment defined.--For purposes of this 
+     subparagraph, the term `excessive payment' means, with 
+     respect to property for which an election is made under this 
+     subsection for any taxable year, an amount equal to the 
+     excess of--
+
+       ``(I) the amount treated as a payment which is made by the 
+     taxpayer under paragraph (1), or the amount of the payment 
+     made pursuant to subparagraph (A), with respect to such 
+     property for such taxable year, over
+       ``(II) the amount of the credit which, without application 
+     of this subsection, would be otherwise allowable (determined 
+     without regard to section 38(c)) under subsection (a) with 
+     respect to such property for such taxable year.
+
+       ``(3) Denial of double benefit.--In the case of a taxpayer 
+     making an election under this subsection with respect to the 
+     credit determined under subsection (a), such credit shall be 
+     reduced to zero and shall, for any other purposes under this 
+     title, be deemed to have been allowed to the taxpayer for 
+     such taxable year.
+       ``(4) Mirror code possessions.--In the case of any 
+     possession of the United States with a mirror code tax system 
+     (as defined in section 24(k)), this subsection shall not be 
+     treated as part of the income tax laws of the United States 
+     for purposes of determining the income tax law of such 
+     possession unless such possession elects to have this 
+     subsection be so treated.
+       ``(5) Basis reduction and recapture.--Rules similar to the 
+     rules of subsections (a) and (c) of section 50 shall apply 
+     with respect to--
+       ``(A) any amount treated as a payment which is made by the 
+     taxpayer under paragraph (1), and
+       ``(B) any payment made pursuant to paragraph (2)(A).
+       ``(6) Regulations.--The Secretary shall issue such 
+     regulations or other guidance as may be necessary or 
+     appropriate to carry out the purposes of this subsection, 
+     including--
+       ``(A) regulations or other guidance providing rules for 
+     determining a partner's distributive share of the tax exempt 
+     income described in paragraph (2)(A)(i)(III), and
+       ``(B) guidance to ensure that the amount of the payment or 
+     deemed payment made under this subsection is commensurate 
+     with the amount of the credit that would be otherwise 
+     allowable (determined without regard to section 38(c)).
+       ``(e) Termination of Credit.--The credit allowed under this 
+     section shall not apply to property the construction of which 
+     begins after December 31, 2026.''.
+       (b) Recapture in Connection With Certain Expansions.--
+       (1) In general.--Section 50(a) of the Internal Revenue Code 
+     of 1986 is amended redesignating paragraphs (3) through (5) 
+     as paragraphs (4) through (6), respectively, and by inserting 
+     after paragraph (2) the following new paragraph:
+       ``(3) Certain expansions in connection with advanced 
+     manufacturing facilities.--
+       ``(A) In general.--If there is a an applicable transaction 
+     by an applicable taxpayer before the close of the 10-year 
+     period beginning on the date such taxpayer placed in service 
+     investment credit property which is eligible for the advanced 
+     manufacturing investment credit under section 48D(a), then 
+     the tax under this chapter for the taxable year in which such 
+     transaction occurs shall be increased by 100 percent of the 
+     aggregate decrease in the credits allowed under section 38 
+     for all prior taxable years which would have resulted solely 
+     from reducing to zero any credit determined under section 46 
+     which is attributable to the advanced manufacturing 
+     investment credit under section 48D(a) with respect to such 
+     property.
+       ``(B) Exception.--Subparagraph (A) shall not apply if the 
+     applicable taxpayer demonstrates to the satisfaction of the 
+     Secretary that the applicable transaction has been ceased or 
+     abandoned within 45 days of a determination and notice by the 
+     Secretary.
+       ``(C) Regulations and guidance.--The Secretary shall issue 
+     such regulations or other guidance as the Secretary 
+     determines necessary or appropriate to carry out the purposes 
+     of this paragraph, including regulations or other guidance 
+     which provide for requirements for recordkeeping or 
+     information reporting for purposes of administering the 
+     requirements of this paragraph.''.
+
+[[Page S3659]]
+
+       (2) Applicable transaction; applicable taxpayer.--Section 
+     50(a)(6) of the Internal Revenue Code of 1986, as 
+     redesignated by paragraph (1), is amended adding at the end 
+     the following new subparagraphs:
+       ``(D) Applicable transaction.--For purposes of this 
+     subsection, the term `applicable transaction' means, with 
+     respect to any applicable taxpayer, any transaction (as 
+     determined by the Secretary, in coordination with the 
+     Secretary of Commerce and the Secretary of Defense) involving 
+     the expansion of semiconductor manufacturing capacity of such 
+     applicable taxpayer in the People's Republic of China or a 
+     foreign country of concern (as defined in section 9901(7) of 
+     the William M. (Mac) Thornberry National Defense 
+     Authorization Act for Fiscal Year 2021).
+                                 ______
+
+
+

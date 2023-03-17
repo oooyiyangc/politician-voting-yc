@@ -1,0 +1,19 @@
+bill, amendment_url, year
+H.R.2471, https://www.congress.gov/bill/117th-congress/house-bill/2471/amendments, 2022
+H.R.4502, https://www.congress.gov/bill/117th-congress/house-bill/4502/amendments, 2022
+H.R.4346, https://www.congress.gov/bill/117th-congress/house-bill/4346/amendments, 2022
+H.R.4373, https://www.congress.gov/bill/117th-congress/house-bill/4373/amendments, 2022
+H.R.7608, https://www.congress.gov/bill/116th-congress/house-bill/7608/amendments, 2021
+H.R.7617, https://www.congress.gov/bill/116th-congress/house-bill/7617/amendments, 2021
+H.R.133, https://www.congress.gov/bill/116th-congress/house-bill/133/amendments, 2021
+H.R.1158, https://www.congress.gov/bill/116th-congress/house-bill/1158/amendments, 2020
+H.R.1865, https://www.congress.gov/bill/116th-congress/house-bill/1865/amendments, 2020
+H.R.2740, https://www.congress.gov/bill/116th-congress/house-bill/2740/amendments, 2020
+H.R.3055, https://www.congress.gov/bill/116th-congress/house-bill/3055/amendments, 2020
+H.R.3351, https://www.congress.gov/bill/116th-congress/house-bill/3351/amendments, 2020
+H.J.Res.31, https://www.congress.gov/bill/116th-congress/house-joint-resolution/31/amendments, 2019
+H.R.6157, https://www.congress.gov/bill/115th-congress/house-bill/6157/amendments, 2019
+H.R.5895, https://www.congress.gov/bill/115th-congress/house-bill/5895/amendments, 2019
+H.R.266, https://www.congress.gov/bill/116th-congress/house-bill/266/amendments, 2019
+H.R.6147, https://www.congress.gov/bill/115th-congress/house-bill/6147/amendments, 2019
+
