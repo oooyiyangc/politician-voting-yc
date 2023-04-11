@@ -5,12 +5,16 @@ import pandas as pd
 
 class AmendmentText:
 
-	PATH = "assets/chromedriver_v110.exe"
+	PATH = "assets/chromedriver_v112.exe"
 
 	def __init__(self, url):
 		self.url = url
 		# self.aid = aid
-		self.driver = webdriver.Chrome(self.PATH)
+
+		options = webdriver.ChromeOptions() 
+		options.add_experimental_option('excludeSwitches', ['enable-logging']) # to supress the error messages/logs
+		self.driver = webdriver.Chrome(options=options, executable_path=self.PATH)
+		self.driver.get(self.url)
 		self.driver.get(self.url)
 
 

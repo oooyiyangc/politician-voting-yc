@@ -1,4 +1,4 @@
-bill, amendment_url, year
+bill, amendment_url, year, num_amdt
 H.R.2471, https://www.congress.gov/bill/117th-congress/house-bill/2471/amendments, 2022
 H.R.4502, https://www.congress.gov/bill/117th-congress/house-bill/4502/amendments, 2022
 H.R.4346, https://www.congress.gov/bill/117th-congress/house-bill/4346/amendments, 2022
@@ -16,4 +16,89 @@ H.R.6157, https://www.congress.gov/bill/115th-congress/house-bill/6157/amendment
 H.R.5895, https://www.congress.gov/bill/115th-congress/house-bill/5895/amendments, 2019
 H.R.266, https://www.congress.gov/bill/116th-congress/house-bill/266/amendments, 2019
 H.R.6147, https://www.congress.gov/bill/115th-congress/house-bill/6147/amendments, 2019
+H.R.1625, https://www.congress.gov/bill/115th-congress/house-bill/1625/amendments, 2018
+H.R.3354, https://www.congress.gov/bill/115th-congress/house-bill/3354/amendments, 2018, 173
+H.R.3219, https://www.congress.gov/bill/115th-congress/house-bill/3219/amendments, 2018
+H.R.695, https://www.congress.gov/bill/115th-congress/house-bill/695/amendments, 2018
+H.R.1301, https://www.congress.gov/bill/115th-congress/house-bill/1301/amendments, 2018
+H.R.244, https://www.congress.gov/bill/115th-congress/house-bill/244/amendments, 2017
+H.R.2578, https://www.congress.gov/bill/114th-congress/house-bill/2578/amendments, 2017, 266
+H.R.5293, https://www.congress.gov/bill/114th-congress/house-bill/5293/amendments, 2017
+H.R.5055, https://www.congress.gov/bill/114th-congress/house-bill/5055/amendments, 2017
+H.R.2028, https://www.congress.gov/bill/114th-congress/house-bill/2028/amendments, 2017, 163
+H.R.5485, https://www.congress.gov/bill/114th-congress/house-bill/5485/amendments, 2017
+H.R.5538, https://www.congress.gov/bill/114th-congress/house-bill/5538/amendments, 2017, 101
+H.R.5325, https://www.congress.gov/bill/114th-congress/house-bill/5325/amendments, 2017
+H.R.4974, https://www.congress.gov/bill/114th-congress/house-bill/4974/amendments, 2017
+H.R.2577, https://www.congress.gov/bill/114th-congress/house-bill/2577/amendments, 2017, 307
+S.2806, https://www.congress.gov/bill/114th-congress/senate-bill/2806/amendments, 2017
+H.R.2029, https://www.congress.gov/bill/114th-congress/house-bill/2029/amendments, 2016, 84
+H.R.2685, https://www.congress.gov/bill/114th-congress/house-bill/2685/amendments, 2016, 67
+H.R.2822, https://www.congress.gov/bill/114th-congress/house-bill/2822/amendments, 2016, 116
+H.R.2250, https://www.congress.gov/bill/114th-congress/house-bill/2250/amendments, 2016
+H.R.83, https://www.congress.gov/bill/113th-congress/house-bill/83/amendments, 2015
+H.R.4800, https://www.congress.gov/bill/113th-congress/house-bill/4800/amendments, 2015
+H.R.4660, https://www.congress.gov/bill/113th-congress/house-bill/4660/amendments, 2015, 211
+H.R.4870, https://www.congress.gov/bill/113th-congress/house-bill/4870/amendments, 2015, 80
+H.R.4923, https://www.congress.gov/bill/113th-congress/house-bill/4923/amendments, 2015, 78
+H.R.5016, https://www.congress.gov/bill/113th-congress/house-bill/5016/amendments, 2015, 51
+H.R.240, https://www.congress.gov/bill/114th-congress/house-bill/240/amendments, 2015
+H.R.4487, https://www.congress.gov/bill/113th-congress/house-bill/4487/amendments, 2015
+H.R.4486, https://www.congress.gov/bill/113th-congress/house-bill/4486/amendments, 2015
+H.R.4745, https://www.congress.gov/bill/113th-congress/house-bill/4745/amendments, 2015
+H.R.2397, https://www.congress.gov/bill/113th-congress/house-bill/2397/amendments, 2014
+H.R.2609, https://www.congress.gov/bill/113th-congress/house-bill/2609/amendments, 2014
+H.R.2217, https://www.congress.gov/bill/113th-congress/house-bill/2217/amendments, 2014
+H.R.2216, https://www.congress.gov/bill/113th-congress/house-bill/2216/amendments, 2014
+H.R.2610, https://www.congress.gov/bill/113th-congress/house-bill/2610/amendments, 2014
+S.1243, https://www.congress.gov/bill/113th-congress/senate-bill/1243/amendments, 2014
+H.R.933, https://www.congress.gov/bill/113th-congress/house-bill/933/amendments, 2013, 112x
+H.R.5326, https://www.congress.gov/bill/112th-congress/house-bill/5326/amendments, 2013
+H.R.5856, https://www.congress.gov/bill/112th-congress/house-bill/5856/amendments, 2013
+H.R.5325, https://www.congress.gov/bill/112th-congress/house-bill/5325/amendments, 2013
+H.R.5855, https://www.congress.gov/bill/112th-congress/house-bill/5855/amendments, 2013
+H.R.5882, https://www.congress.gov/bill/112th-congress/house-bill/5882/amendments, 2013
+H.R.5854, https://www.congress.gov/bill/112th-congress/house-bill/5854/amendments, 2013
+H.R.5972, https://www.congress.gov/bill/112th-congress/house-bill/5972/amendments, 2013
+H.R.2112, https://www.congress.gov/bill/112th-congress/house-bill/2112/amendments, 2012, 243
+H.R.2219, https://www.congress.gov/bill/112th-congress/house-bill/2219/amendments, 2012
+H.R.2354, https://www.congress.gov/bill/112th-congress/house-bill/2354/amendments, 2012, 223
+H.R.2017, https://www.congress.gov/bill/112th-congress/house-bill/2017/amendments, 2012
+H.R.2584, https://www.congress.gov/bill/112th-congress/house-bill/2584/amendments, 2012
+H.R.2551, https://www.congress.gov/bill/112th-congress/house-bill/2551/amendments, 2012
+H.R.2055, https://www.congress.gov/bill/112th-congress/house-bill/2055/amendments, 2012
+H.R.5822, https://www.congress.gov/bill/111th-congress/house-bill/5822/amendments, 2011
+H.R.5850, https://www.congress.gov/bill/111th-congress/house-bill/5850/amendments, 2011
+H.R.3288, https://www.congress.gov/bill/111th-congress/house-bill/3288/amendments, 2010, 133
+H.R.2997, https://www.congress.gov/bill/111th-congress/house-bill/2997/amendments, 2010, 400
+H.R.2847, https://www.congress.gov/bill/111th-congress/house-bill/2847/amendments, 2010, 123
+H.R.3326, https://www.congress.gov/bill/111th-congress/house-bill/3326/amendments, 2010, 90
+H.R.3183, https://www.congress.gov/bill/111th-congress/house-bill/3183/amendments, 2010, 111
+H.R.3170, https://www.congress.gov/bill/111th-congress/house-bill/3170/amendments, 2010
+S.1432, https://www.congress.gov/bill/111th-congress/senate-bill/1432/amendments, 2010
+H.R.2892, https://www.congress.gov/bill/111th-congress/house-bill/2892/amendments, 2010, 110
+H.R.2996, https://www.congress.gov/bill/111th-congress/house-bill/2996/amendments, 2010, 138
+H.R.3293, https://www.congress.gov/bill/111th-congress/house-bill/3293/amendments, 2010
+H.R.2918, https://www.congress.gov/bill/111th-congress/house-bill/2918/amendments, 2010
+H.R.3082, https://www.congress.gov/bill/111th-congress/house-bill/3082/amendments, 2010
+S.1407, https://www.congress.gov/bill/111th-congress/senate-bill/1407/amendments, 2010
+H.R.3081, https://www.congress.gov/bill/111th-congress/house-bill/3081/amendments, 2010
+S.1434, https://www.congress.gov/bill/111th-congress/senate-bill/1434/amendments, 2010
+H.R.1105, https://www.congress.gov/bill/111th-congress/house-bill/1105/amendments, 2009
+H.R.2638, https://www.congress.gov/bill/110th-congress/house-bill/2638/amendments, 2009, 200
+H.R.6599, https://www.congress.gov/bill/110th-congress/house-bill/6599/amendments, 2009
+H.R.2764, https://www.congress.gov/bill/110th-congress/house-bill/2764/amendments, 2008, 156
+H.R.3161, https://www.congress.gov/bill/110th-congress/house-bill/3161/amendments, 2008
+H.R.3093, https://www.congress.gov/bill/110th-congress/house-bill/3093/amendments, 2008, 167
+H.R.3222, https://www.congress.gov/bill/110th-congress/house-bill/3222/amendments, 2008, 104
+H.R.2641, https://www.congress.gov/bill/110th-congress/house-bill/2641/amendments, 2008
+H.R.2643, https://www.congress.gov/bill/110th-congress/house-bill/2643/amendments, 2008
+H.R.3043, https://www.congress.gov/bill/110th-congress/house-bill/3043/amendments, 2008, 219
+H.R.2771, https://www.congress.gov/bill/110th-congress/house-bill/2771/amendments, 2008
+H.R.2642, https://www.congress.gov/bill/110th-congress/house-bill/2642/amendments, 2008
+H.R.3074, https://www.congress.gov/bill/110th-congress/house-bill/3074/amendments, 2008, 117
+
+
+
+
 
