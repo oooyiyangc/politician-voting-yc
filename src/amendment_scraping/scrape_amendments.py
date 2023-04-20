@@ -45,7 +45,11 @@ class Amendments:
 				# print(heading_congress)
 
 				content_span = amendment_selector.find_all('span', class_='result-item')
-				# print(content_span)
+				if len(content_span) <= 1:
+					print('\u001b[91m'+f"Error: Unexpected content span for {heading_text}"+'\u001b[0m')
+					print('\u001b[91m'+f"Content: {content_span}"+'\u001b[0m')
+					print('\u001b[91m'+f"URL: {self.url}"+'\u001b[0m')
+					continue
 
 				# Purpose span
 				purpose_span = content_span[0]
@@ -71,9 +75,13 @@ class Amendments:
 					# print(sponsor_dates)
 				else: 
 					sponsor_span_text = re.sub(r'\s\s+', '', sponsor_span.find('strong').next_sibling)
-					sponsor_text = re.findall(r'(.*)\(', sponsor_span_text)[0]
-					sponsor_href = None
-					sponsor_dates = re.findall(r'\(.*\)', sponsor_span_text)[0]
+					try: 
+						sponsor_text = re.findall(r'(.*)\(', sponsor_span_text)[0]
+						sponsor_href = None
+						sponsor_dates = re.findall(r'\(.*\)', sponsor_span_text)[0]
+					except:
+						sponsor_text = None 
+						sponsor_dates = None 
 
 				# Latest action span
 				if len(content_span) > 2:
@@ -122,6 +130,6 @@ class Amendments:
 if __name__ == '__main__':
 	# test_run = Amendments("https://www.congress.gov/bill/117th-congress/house-bill/2471/amendments")
 	# test_run = Amendments("https://www.congress.gov/bill/117th-congress/house-bill/4502/amendments")
-	test_run = Amendments("https://www.congress.gov/bill/117th-congress/senate-bill/2599/amendments")
+	test_run = Amendments("https://www.congress.gov/bill/108th-congress/house-bill/2657/amendments")
 	print(test_run.get_title())
 	test_run.scrape_all_amendments()

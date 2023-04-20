@@ -52,7 +52,7 @@ H.R.2217, https://www.congress.gov/bill/113th-congress/house-bill/2217/amendment
 H.R.2216, https://www.congress.gov/bill/113th-congress/house-bill/2216/amendments, 2014
 H.R.2610, https://www.congress.gov/bill/113th-congress/house-bill/2610/amendments, 2014
 S.1243, https://www.congress.gov/bill/113th-congress/senate-bill/1243/amendments, 2014
-H.R.933, https://www.congress.gov/bill/113th-congress/house-bill/933/amendments, 2013, 112x
+H.R.933, https://www.congress.gov/bill/113th-congress/house-bill/933/amendments, 2013, 112
 H.R.5326, https://www.congress.gov/bill/112th-congress/house-bill/5326/amendments, 2013
 H.R.5856, https://www.congress.gov/bill/112th-congress/house-bill/5856/amendments, 2013
 H.R.5325, https://www.congress.gov/bill/112th-congress/house-bill/5325/amendments, 2013
@@ -97,6 +97,57 @@ H.R.3043, https://www.congress.gov/bill/110th-congress/house-bill/3043/amendment
 H.R.2771, https://www.congress.gov/bill/110th-congress/house-bill/2771/amendments, 2008
 H.R.2642, https://www.congress.gov/bill/110th-congress/house-bill/2642/amendments, 2008
 H.R.3074, https://www.congress.gov/bill/110th-congress/house-bill/3074/amendments, 2008, 117
+H.J.Res.20, https://www.congress.gov/bill/110th-congress/house-joint-resolution/20/amendments, 2007
+H.R.5384, https://www.congress.gov/bill/109th-congress/house-bill/5384/amendments, 2007, 87
+H.R.5672, https://www.congress.gov/bill/109th-congress/house-bill/5672/amendments, 2007
+H.R.5631, https://www.congress.gov/bill/109th-congress/house-bill/5631/amendments, 2007, 186
+H.R.5427, https://www.congress.gov/bill/109th-congress/house-bill/5427/amendments, 2007
+H.R.5522, https://www.congress.gov/bill/109th-congress/house-bill/5522/amendments, 2007
+H.R.5441, https://www.congress.gov/bill/109th-congress/house-bill/5441/amendments, 2007, 168
+H.R.5386, https://www.congress.gov/bill/109th-congress/house-bill/5386/amendments, 2007
+H.R.5521, https://www.congress.gov/bill/109th-congress/house-bill/5521/amendments, 2007
+H.R.5385, https://www.congress.gov/bill/109th-congress/house-bill/5385/amendments, 2007
+H.R.5576, https://www.congress.gov/bill/109th-congress/house-bill/5576/amendments, 2007
+H.R.2744, https://www.congress.gov/bill/109th-congress/house-bill/2744/amendments, 2006, 145
+H.R.2863, https://www.congress.gov/bill/109th-congress/house-bill/2863/amendments, 2006, 161
+H.R.2419, https://www.congress.gov/bill/109th-congress/house-bill/2419/amendments, 2006
+H.R.3057, https://www.congress.gov/bill/109th-congress/house-bill/3057/amendments, 2006
+H.R.2360, https://www.congress.gov/bill/109th-congress/house-bill/2360/amendments, 2006, 148
+H.R.2361, https://www.congress.gov/bill/109th-congress/house-bill/2361/amendments, 2006, 88
+H.R.3010, https://www.congress.gov/bill/109th-congress/house-bill/3010/amendments, 2006, 174
+H.R.2985, https://www.congress.gov/bill/109th-congress/house-bill/2985/amendments, 2006
+H.R.2528, https://www.congress.gov/bill/109th-congress/house-bill/2528/amendments, 2006
+H.R.2862, https://www.congress.gov/bill/109th-congress/house-bill/2862/amendments, 2006, 122
+H.R.3058, https://www.congress.gov/bill/109th-congress/house-bill/3058/amendments, 2006, 181
+H.R.4818, https://www.congress.gov/bill/108th-congress/house-bill/4818/amendments, 2005
+H.R.4766, https://www.congress.gov/bill/108th-congress/house-bill/4766/amendments, 2005
+H.R.4754, https://www.congress.gov/bill/108th-congress/house-bill/4754/amendments, 2005
+H.R.4613, https://www.congress.gov/bill/108th-congress/house-bill/4613/amendments, 2005
+H.R.4850, https://www.congress.gov/bill/108th-congress/house-bill/4850/amendments, 2005
+H.R.4614, https://www.congress.gov/bill/108th-congress/house-bill/4614/amendments, 2005
+H.R.4567, https://www.congress.gov/bill/108th-congress/house-bill/4567/amendments, 2005, 107
+H.R.4568, https://www.congress.gov/bill/108th-congress/house-bill/4568/amendments, 2005
+H.R.5006, https://www.congress.gov/bill/108th-congress/house-bill/5006/amendments, 2005
+H.R.4755, https://www.congress.gov/bill/108th-congress/house-bill/4755/amendments, 2005
+S.2666, https://www.congress.gov/bill/108th-congress/senate-bill/2666/amendments, 2005
+S.2674, https://www.congress.gov/bill/108th-congress/senate-bill/2674/amendments, 2005
+H.R.5025, https://www.congress.gov/bill/108th-congress/house-bill/5025/amendments, 2005
+S.2806, https://www.congress.gov/bill/108th-congress/senate-bill/2806/amendments, 2005
+H.R.2673, https://www.congress.gov/bill/108th-congress/house-bill/2673/amendments, 2004
+H.R.2799, https://www.congress.gov/bill/108th-congress/house-bill/2799/amendments, 2004
+S.1585, https://www.congress.gov/bill/108th-congress/senate-bill/1585/amendments, 2004
+H.R.2658, https://www.congress.gov/bill/108th-congress/house-bill/2658/amendments, 2004, 109
+H.R.2765, https://www.congress.gov/bill/108th-congress/house-bill/2765/amendments, 2004
+H.R.2754, https://www.congress.gov/bill/108th-congress/house-bill/2754/amendments, 2004, 87
+H.R.2800, https://www.congress.gov/bill/108th-congress/house-bill/2800/amendments, 2004, 84
+H.R.2555, https://www.congress.gov/bill/108th-congress/house-bill/2555/amendments, 2004
+H.R.2691, https://www.congress.gov/bill/108th-congress/house-bill/2691/amendments, 2004, 82
+H.R.2660, https://www.congress.gov/bill/108th-congress/house-bill/2660/amendments, 2004, 110
+H.R.2657, https://www.congress.gov/bill/108th-congress/house-bill/2657/amendments, 2004
+H.R.2989, https://www.congress.gov/bill/108th-congress/house-bill/2989/amendments, 2004, 96
+H.R.2861, https://www.congress.gov/bill/108th-congress/house-bill/2861/amendments, 2004
+S.1584, https://www.congress.gov/bill/108th-congress/senate-bill/1584/amendments, 2004
+
 
 
 

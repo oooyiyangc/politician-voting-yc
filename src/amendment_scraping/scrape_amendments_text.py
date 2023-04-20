@@ -7,16 +7,15 @@ class AmendmentText:
 
 	PATH = "assets/chromedriver_v112.exe"
 
-	def __init__(self, url):
+	def __init__(self, url, driver=None):
 		self.url = url
 		# self.aid = aid
-
-		options = webdriver.ChromeOptions() 
-		options.add_experimental_option('excludeSwitches', ['enable-logging']) # to supress the error messages/logs
-		self.driver = webdriver.Chrome(options=options, executable_path=self.PATH)
+		if driver == None:
+			options = webdriver.ChromeOptions() 
+			options.add_experimental_option('excludeSwitches', ['enable-logging']) # to supress the error messages/logs
+			driver = webdriver.Chrome(options=options, executable_path=self.PATH)
+		self.driver = driver
 		self.driver.get(self.url)
-		self.driver.get(self.url)
-
 
 	def get_title(self):
 		return self.driver.title
@@ -48,7 +47,7 @@ class AmendmentText:
 			text_window_link = self.driver.find_element_by_link_text("View TXT in new window")
 			text_window_link.click()
 
-			self.driver.switch_to.window(self.driver.window_handles[1])
+			self.driver.switch_to.window(self.driver.window_handles[len(self.driver.window_handles)-1])
 			amendment_text_html = self.driver.page_source
 			soup = BeautifulSoup(amendment_text_html,'html.parser')
 			amendment_text = soup.text

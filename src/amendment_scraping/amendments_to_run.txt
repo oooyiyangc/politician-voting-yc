@@ -1,4 +1,1 @@
 bill, amendment_url, year
-H.R.2112, https://www.congress.gov/bill/112th-congress/house-bill/2112/amendments, 2012
-H.R.2354, https://www.congress.gov/bill/112th-congress/house-bill/2354/amendments, 2012
-H.R.3288, https://www.congress.gov/bill/111th-congress/house-bill/3288/amendments, 2010
