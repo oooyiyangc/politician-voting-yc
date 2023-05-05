@@ -45,25 +45,32 @@ class Amendments:
 				# print(heading_congress)
 
 				content_span = amendment_selector.find_all('span', class_='result-item')
-				if len(content_span) <= 1:
+				if len(content_span) < 1:
 					print('\u001b[91m'+f"Error: Unexpected content span for {heading_text}"+'\u001b[0m')
 					print('\u001b[91m'+f"Content: {content_span}"+'\u001b[0m')
 					print('\u001b[91m'+f"URL: {self.url}"+'\u001b[0m')
 					continue
 
 				# Purpose span
-				purpose_span = content_span[0]
-				purpose_text = re.sub(r'\s\s+', '', purpose_span.find('strong').next_sibling)
-				# print(purpose_text)
-				purpose_href_a = purpose_span.find('a', href=True)
-				if purpose_href_a:
-					purpose_href = self.congress_base_url + purpose_href_a['href']
+				if len(content_span) > 1:
+					purpose_span = content_span[0]
+					purpose_text = re.sub(r'\s\s+', '', purpose_span.find('strong').next_sibling)
+					# print(purpose_text)
+					purpose_href_a = purpose_span.find('a', href=True)
+					if purpose_href_a:
+						purpose_href = self.congress_base_url + purpose_href_a['href']
+					else:
+						purpose_href = None
+					# print(purpose_href)
 				else:
+					purpose_text = None 
 					purpose_href = None
-				# print(purpose_href)
 
 				# Sponsor span
-				sponsor_span = content_span[1]
+				if len(content_span) > 1:
+					sponsor_span = content_span[1]
+				else:
+					sponsor_span = content_span[0]
 				# print(sponsor_span)
 				sponsor_text = sponsor_span.find('a', href=True)
 				if sponsor_text:

@@ -27,16 +27,16 @@ venv.bak/
 /bin/
 
 # Ignore test_wrds command logs
-src/logs/
+politician_stock/src/logs/
 
 # Ignore large datafiles
-data/pfd
-data/pfd_clean
-data/sacerdote/
-data/minas_esg/sustainalytics_bs_merge.csv
-data/EmissionsProEnvVotes.csv
-src/past/*
-src/amendment_scraping/output
+politician_stock/data/pfd
+politician_stock/data/pfd_clean
+politician_stock/data/sacerdote/
+politician_stock/data/minas_esg/sustainalytics_bs_merge.csv
+politician_stock/data/EmissionsProEnvVotes.csv
+politician_stock/src/past/*
+amendment_scraping/output
 
 # webdriver
 chromedriver_v*.exe
