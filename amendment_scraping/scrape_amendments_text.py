@@ -25,6 +25,7 @@ class AmendmentText:
 		quit()
 
 	def scrape_amendment_text(self):
+		# the following commented out version no longer works
 		# amendment_text_link = self.driver.find_element_by_partial_link_text(self.aid)
 		# amendment_text_link.click()
 
@@ -32,6 +33,7 @@ class AmendmentText:
 		# text_window_link.click()
 
 		# self.driver.switch_to.window(self.driver.window_handles[1])
+		
 		amendment_text_html = self.driver.page_source
 		soup = BeautifulSoup(amendment_text_html,'html.parser')
 		try: 

@@ -45,6 +45,8 @@ class Amendments:
 				# print(heading_congress)
 
 				content_span = amendment_selector.find_all('span', class_='result-item')
+
+				# raise warning to user if content span has length 0
 				if len(content_span) < 1:
 					print('\u001b[91m'+f"Error: Unexpected content span for {heading_text}"+'\u001b[0m')
 					print('\u001b[91m'+f"Content: {content_span}"+'\u001b[0m')
@@ -55,14 +57,14 @@ class Amendments:
 				if len(content_span) > 1:
 					purpose_span = content_span[0]
 					purpose_text = re.sub(r'\s\s+', '', purpose_span.find('strong').next_sibling)
-					# print(purpose_text)
 					purpose_href_a = purpose_span.find('a', href=True)
 					if purpose_href_a:
 						purpose_href = self.congress_base_url + purpose_href_a['href']
 					else:
 						purpose_href = None
-					# print(purpose_href)
 				else:
+					# if content span only has 1 item, that item is sponsor
+					# set purpose to None
 					purpose_text = None 
 					purpose_href = None
 
@@ -71,15 +73,11 @@ class Amendments:
 					sponsor_span = content_span[1]
 				else:
 					sponsor_span = content_span[0]
-				# print(sponsor_span)
 				sponsor_text = sponsor_span.find('a', href=True)
 				if sponsor_text:
-					# print(sponsor_text)
 					sponsor_text = sponsor_text.text
 					sponsor_href = self.congress_base_url + sponsor_span.find('a', href=True)['href']
-					# print(sponsor_href)
 					sponsor_dates = sponsor_span.find('a', href=True).next_sibling
-					# print(sponsor_dates)
 				else: 
 					sponsor_span_text = re.sub(r'\s\s+', '', sponsor_span.find('strong').next_sibling)
 					try: 
@@ -93,14 +91,9 @@ class Amendments:
 				# Latest action span
 				if len(content_span) > 2:
 					latest_action_span = content_span[2]
-					# print(latest_action_span)
 					latest_action_text = latest_action_span.find('strong').next_sibling
-					# print(latest_action_text)
-					# latest_action_href = latest_action_span.find_all('a', href=True)[-1]['href']
-					# print(latest_action_href)
 				else:
 					latest_action_text = None
-					# latest_action_href = None
 
 				# print("================================")
 
@@ -114,7 +107,6 @@ class Amendments:
 					'sponsor_href':  sponsor_href,
 					'dates': sponsor_dates,
 					'latest_action': latest_action_text
-					# 'latest_action_href': latest_action_href
 				}
 
 				amendments.append(amendment_data)

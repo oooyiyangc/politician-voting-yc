@@ -11,17 +11,25 @@ import time
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+# path to Chrome driver
 PATH = "assets/chromedriver_v112.exe"
 
+"""
+Scrape all the amendment texts for a single bill 
+"""
 def run(amendment_url, base_file_path='output/'):
 
+	# make a directory for the bill if it doesn't exist
 	if not os.path.exists(base_file_path):
 		os.makedirs(base_file_path)
 
+	# initialize Amendments class and get info about all 
+	# amendments for this bill
 	test_run = Amendments(amendment_url, base_file_path)
 	print(test_run.get_title())
 	test_run.scrape_all_amendments()
 
+	# write the metadata dataframe
 	index_csv = pd.read_csv(f"{base_file_path}amdt_text_index.csv")
 	index_csv["text_scraped?"] = np.zeros(index_csv.shape[0])
 	print(f"Found {index_csv.shape[0]} amendements. ")
@@ -54,11 +62,10 @@ def run(amendment_url, base_file_path='output/'):
 		sys.stdout.flush()
 
 		amendment_url = index_csv.iloc[i, 1]
-		# print(amendment_url)
 		amendment_text_url = re.sub(r'\?', '/text?', amendment_url)
 		try:
+			# initialize an AmendmentText instance and get the amendment text
 			test_run = AmendmentText(amendment_text_url, driver)
-			# print(test_run.get_title())
 			amendment_text = test_run.scrape_amendment_text()
 
 			with open(f'{base_file_path}amdt_text_{index_csv.iloc[i, 0]}.txt', 'w') as f:
@@ -80,6 +87,10 @@ def run(amendment_url, base_file_path='output/'):
 
 	driver.quit()
 
+
+"""
+Scrape all the amendment texts for all the bills in `amendments_to_run.csv`
+"""
 def run_batch(to_run_file):
 	batch_index_df = pd.read_csv(to_run_file)
 	for i in range(batch_index_df.shape[0]):
@@ -87,9 +98,10 @@ def run_batch(to_run_file):
 		# print(f"Finished scraping all amendments for {batch_index_df.iloc[i, 0]}")
 		print()
 
+
 if __name__ == '__main__':
 	
-	# run("https://www.congress.gov/bill/113th-congress/house-bill/83/amendments")
+	# run("https://www.congress.gov/bill/113th-congress/house-bill/83/amendments") # test
 	run_batch("amendments_to_run.txt")
 
 		
